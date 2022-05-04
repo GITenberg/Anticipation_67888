@@ -1,0 +1,51 @@
+_repo: Anticipation_67888
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Adams, Randolph Greenfield
+    alias: Adams, Randoloph G.
+    birthdate: 1892
+    deathdate: 1951
+    gutenberg_agent_id: '54525'
+    url: http://www.gutenberg.org/2009/agents/54525
+    wikipedia: https://en.wikipedia.org/wiki/Randolph_Greenfield_Adams
+creator:
+  author:
+    agent_name: Tickell, Richard
+    birthdate: 1751
+    deathdate: 1793
+    gutenberg_agent_id: '40186'
+    url: http://www.gutenberg.org/2009/agents/40186
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Tickell
+  editor:
+    agent_name: Butterfield, L. H. (Lyman Henry)
+    aliases:
+    - Butterfield, Lyman H.
+    - Butterfield, Lyman Henry
+    birthdate: 1909
+    deathdate: 1982
+    gutenberg_agent_id: '54511'
+    url: http://www.gutenberg.org/2009/agents/54511
+description: ''
+gutenberg_issued: '2022-04-20'
+identifiers:
+  gutenberg: '67888'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/mdp.39015074853857
+pgterms:marc905: 20190909051623tickell
+pgterms:marc906: '1778'
+pgterms:marc907: US
+production_note: Tim Lindell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: United States :King's Crown Press,1778,reprint 1942.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Satire'
+- !lcsh 'Great Britain -- Politics and government -- 1760-1789'
+- !lcsh 'United States -- History -- Revolution, 1775-1783'
+- !lcc 'DA'
+- GITenberg
+title: Anticipation
+url: http://www.gutenberg.org/ebooks/67888
