@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '54525'
     url: http://www.gutenberg.org/2009/agents/54525
     wikipedia: https://en.wikipedia.org/wiki/Randolph_Greenfield_Adams
+covers:
+- cover_type: archival
+  image_path: 67888-h/images/cover.jpg
 creator:
   author:
     agent_name: Tickell, Richard
@@ -27,6 +30,8 @@ creator:
     gutenberg_agent_id: '54511'
     url: http://www.gutenberg.org/2009/agents/54511
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67888#Anticipation
 gutenberg_issued: '2022-04-20'
 identifiers:
   gutenberg: '67888'
